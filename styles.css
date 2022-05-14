@@ -55,6 +55,11 @@ input[type=text] {
       color: white;
   }
 
+textarea name="expt"{
+    background: black;
+    color: white;
+}  
+
 input[type=submit]{
     background: #3829e0;
     border-radius: 5px;
